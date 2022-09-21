@@ -19,6 +19,7 @@ Cmos inverter symbol and truth table
 ![Screenshot from 2022-09-21 16-52-08](https://user-images.githubusercontent.com/77844224/191491909-935e05b6-8842-44aa-aa15-1ab68a278da0.png)
 
 <hr>
+
 # CMOS NAND
 
 ![Screenshot from 2022-09-21 16-47-19](https://user-images.githubusercontent.com/77844224/191493601-1fedda60-979b-494a-9678-2beca0ea644d.png)
@@ -26,3 +27,12 @@ Cmos inverter symbol and truth table
 NAND SYMBOL AND TRUTH TABLE
 # NAND Schematic
 ![nand](https://user-images.githubusercontent.com/77844224/191494713-e33fb092-9528-4647-8b0a-f194f7a9adcc.png)
+
+# NAND Layout
+![Screenshot from 2022-09-21 17-10-17](https://user-images.githubusercontent.com/77844224/191495287-9022be89-fc56-48aa-9063-8a761c95ed9a.png)
+
+# Transient Analysis
+![Screenshot from 2022-09-21 17-23-34](https://user-images.githubusercontent.com/77844224/191497659-3fc5e480-0405-4c68-9b95-d20f43649fb9.png)
+
+
+
